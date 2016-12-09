@@ -30,3 +30,14 @@ table.gridtable td {
 	border-color: #888888;
 	background-color: #ffffff;
 }
+
+.w3-note {
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+}
+
+.w3-panel {
+    margin-bottom: 16px !important;
+    margin-top: 16px !important;
+    padding: 0.01em 16px;
+}
